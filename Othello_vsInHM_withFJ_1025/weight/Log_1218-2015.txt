@@ -1,0 +1,4190 @@
+Information_size     : 4
+input_layer_size     : 68
+hidden_layer_size    : 208
+hidden_layer_size2   : 60
+hidden_layer_size3   : 20
+HarmonyMemorySize    : 128
+MaximumImprovisation : 1000
+MaxOppNum            : 11
+MaxGametimes         : 1
+ModifyF_MaxOppNum    : 127
+ModifyF_MaxGametimes : 10
+
+
+[ ファイル読み込み ]
+../../Othello_AI_weight1-4_learned.txt
+ファイルが見つからないか開けません
+
+F (with sort) :
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+HM1-4[best][0][0] [0][1]
+0.05 0.34
+0.08 0.2
+0.51 0.66
+0.63
+No.0 F : 0.0
+
+[ [ [  Improvisation  ] ] ]
+
+[[ imp / mi ]] imp : 0    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.93 (F:9.091)   win : 23 , draw : 1 , lose : 26
+No.94 (F:10)   win : 27 , draw : 0 , lose : 23
+No.61 (F:9.091)   win : 28 , draw : 0 , lose : 22
+P : White
+No.61 (F:9.091)   win : 17 , draw : 2 , lose : 31
+No.93 (F:9.091)   win : 20 , draw : 0 , lose : 30
+No.94 (F:10)   win : 20 , draw : 0 , lose : 30
+vs Normal 
+P : Black
+No.94 (F:10)   win : 3 , draw : 0 , lose : 47
+No.93 (F:9.091)   win : 7 , draw : 1 , lose : 42
+No.61 (F:9.091)   win : 5 , draw : 1 , lose : 44
+P : White
+No.93 (F:9.091)   win : 14 , draw : 1 , lose : 35
+No.94 (F:10)   win : 14 , draw : 1 , lose : 35
+No.61 (F:9.091)   win : 14 , draw : 1 , lose : 35
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.61 (F:9.091)   win : 21 , draw : 0 , lose : 29
+No.93 (F:9.091)   win : 25 , draw : 0 , lose : 25
+No.94 (F:10)   win : 27 , draw : 0 , lose : 23
+P : White
+No.94 (F:10)   win : 15 , draw : 1 , lose : 34
+No.93 (F:9.091)   win : 21 , draw : 1 , lose : 28
+No.61 (F:9.091)   win : 14 , draw : 0 , lose : 36
+vs Normal 
+P : Black
+No.61 (F:9.091)   win : 6 , draw : 1 , lose : 43
+No.94 (F:10)   win : 7 , draw : 1 , lose : 42
+No.93 (F:9.091)   win : 4 , draw : 2 , lose : 44
+P : White
+No.61 (F:9.091)   win : 16 , draw : 0 , lose : 34
+No.94 (F:10)   win : 12 , draw : 1 , lose : 37
+No.93 (F:9.091)   win : 11 , draw : 1 , lose : 38
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp0_1212-2244.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 1    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 2    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 3    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 4    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 5    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 6    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 7    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 8    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 9    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 10    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 11    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 12    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 13    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 14    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 15    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 16    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 17    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 18    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 19    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 20    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 21    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 22    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 23    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 24    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 25    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 26    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 27    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 28    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 29    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 30    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 31    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 32    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 33    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 34    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 35    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 36    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 37    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 38    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 39    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 40    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 41    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 42    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 43    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 44    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 45    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 46    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 47    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 48    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 49    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 50    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.126 (F:9.182)   win : 19 , draw : 2 , lose : 29
+No.48 (F:10)   win : 22 , draw : 5 , lose : 23
+No.7 (F:9.091)   win : 24 , draw : 2 , lose : 24
+P : White
+No.7 (F:9.091)   win : 27 , draw : 2 , lose : 21
+No.126 (F:9.182)   win : 21 , draw : 2 , lose : 27
+No.48 (F:10)   win : 25 , draw : 1 , lose : 24
+vs Normal 
+P : Black
+No.126 (F:9.182)   win : 6 , draw : 0 , lose : 44
+No.7 (F:9.091)   win : 3 , draw : 0 , lose : 47
+No.48 (F:10)   win : 18 , draw : 0 , lose : 32
+P : White
+No.126 (F:9.182)   win : 9 , draw : 4 , lose : 37
+No.7 (F:9.091)   win : 7 , draw : 0 , lose : 43
+No.48 (F:10)   win : 16 , draw : 0 , lose : 34
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.48 (F:10)   win : 41 , draw : 0 , lose : 9
+No.126 (F:9.182)   win : 27 , draw : 1 , lose : 22
+No.7 (F:9.091)   win : 34 , draw : 0 , lose : 16
+P : White
+No.48 (F:10)   win : 36 , draw : 0 , lose : 14
+No.7 (F:9.091)   win : 38 , draw : 0 , lose : 12
+No.126 (F:9.182)   win : 39 , draw : 2 , lose : 9
+vs Normal 
+P : Black
+No.126 (F:9.182)   win : 26 , draw : 2 , lose : 22
+No.7 (F:9.091)   win : 11 , draw : 0 , lose : 39
+No.48 (F:10)   win : 12 , draw : 1 , lose : 37
+P : White
+No.7 (F:9.091)   win : 27 , draw : 0 , lose : 23
+No.126 (F:9.182)   win : 9 , draw : 4 , lose : 37
+No.48 (F:10)   win : 19 , draw : 1 , lose : 30
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp50_1213-1337.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 51    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 52    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 53    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 54    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 55    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 56    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 57    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 58    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 59    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 60    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 61    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 62    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 63    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 64    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 65    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 66    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 67    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 68    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 69    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 70    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 71    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 72    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 73    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 74    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 75    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 76    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 77    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 78    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 79    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 80    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 81    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 82    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 83    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 84    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 85    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 86    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 87    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 88    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 89    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 90    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 91    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 92    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 93    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 94    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 95    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 96    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 97    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 98    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 99    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 100    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.45 (F:9.091)   win : 21 , draw : 1 , lose : 28
+No.77 (F:9.091)   win : 19 , draw : 5 , lose : 26
+No.79 (F:10)   win : 28 , draw : 2 , lose : 20
+P : White
+No.45 (F:9.091)   win : 20 , draw : 4 , lose : 26
+No.79 (F:10)   win : 25 , draw : 1 , lose : 24
+No.77 (F:9.091)   win : 27 , draw : 2 , lose : 21
+vs Normal 
+P : Black
+No.77 (F:9.091)   win : 3 , draw : 0 , lose : 47
+No.79 (F:10)   win : 28 , draw : 2 , lose : 20
+No.45 (F:9.091)   win : 3 , draw : 4 , lose : 43
+P : White
+No.77 (F:9.091)   win : 13 , draw : 0 , lose : 37
+No.79 (F:10)   win : 16 , draw : 2 , lose : 32
+No.45 (F:9.091)   win : 16 , draw : 3 , lose : 31
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.45 (F:9.091)   win : 33 , draw : 5 , lose : 12
+No.79 (F:10)   win : 47 , draw : 0 , lose : 3
+No.77 (F:9.091)   win : 40 , draw : 1 , lose : 9
+P : White
+No.45 (F:9.091)   win : 33 , draw : 1 , lose : 16
+No.77 (F:9.091)   win : 41 , draw : 2 , lose : 7
+No.79 (F:10)   win : 44 , draw : 1 , lose : 5
+vs Normal 
+P : Black
+No.79 (F:10)   win : 10 , draw : 15 , lose : 25
+No.77 (F:9.091)   win : 7 , draw : 7 , lose : 36
+No.45 (F:9.091)   win : 10 , draw : 1 , lose : 39
+P : White
+No.79 (F:10)   win : 10 , draw : 3 , lose : 37
+No.77 (F:9.091)   win : 17 , draw : 2 , lose : 31
+No.45 (F:9.091)   win : 19 , draw : 2 , lose : 29
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp100_1214-0258.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 101    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 102    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 103    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 104    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 105    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 106    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 107    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 108    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 109    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 110    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 111    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 112    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 113    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 114    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 115    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 116    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 117    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 118    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 119    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 120    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 121    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 122    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 123    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 124    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 125    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 126    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 127    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 128    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 129    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 130    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 131    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 132    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 133    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 134    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 135    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 136    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 137    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 138    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 139    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 140    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 141    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 142    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 143    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 144    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 145    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 146    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 147    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 148    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 149    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 150    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.54 (F:10)   win : 39 , draw : 3 , lose : 8
+No.105 (F:10)   win : 44 , draw : 3 , lose : 3
+No.103 (F:10)   win : 36 , draw : 3 , lose : 11
+P : White
+No.105 (F:10)   win : 30 , draw : 0 , lose : 20
+No.54 (F:10)   win : 48 , draw : 1 , lose : 1
+No.103 (F:10)   win : 37 , draw : 2 , lose : 11
+vs Normal 
+P : Black
+No.105 (F:10)   win : 21 , draw : 1 , lose : 28
+No.54 (F:10)   win : 24 , draw : 3 , lose : 23
+No.103 (F:10)   win : 21 , draw : 2 , lose : 27
+P : White
+No.54 (F:10)   win : 7 , draw : 2 , lose : 41
+No.105 (F:10)   win : 17 , draw : 3 , lose : 30
+No.103 (F:10)   win : 20 , draw : 1 , lose : 29
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.103 (F:10)   win : 46 , draw : 1 , lose : 3
+No.54 (F:10)   win : 49 , draw : 1 , lose : 0
+No.105 (F:10)   win : 50 , draw : 0 , lose : 0
+P : White
+No.54 (F:10)   win : 50 , draw : 0 , lose : 0
+No.103 (F:10)   win : 50 , draw : 0 , lose : 0
+No.105 (F:10)   win : 50 , draw : 0 , lose : 0
+vs Normal 
+P : Black
+No.54 (F:10)   win : 39 , draw : 0 , lose : 11
+No.103 (F:10)   win : 14 , draw : 2 , lose : 34
+No.105 (F:10)   win : 31 , draw : 0 , lose : 19
+P : White
+No.54 (F:10)   win : 32 , draw : 3 , lose : 15
+No.103 (F:10)   win : 36 , draw : 0 , lose : 14
+No.105 (F:10)   win : 28 , draw : 1 , lose : 21
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp150_1214-1253.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 151    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 152    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 153    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 154    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 155    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 156    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 157    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 158    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 159    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 160    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 161    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 162    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 163    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 164    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 165    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 166    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 167    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 168    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 169    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 170    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 171    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 172    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 173    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 174    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 175    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 176    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 177    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 178    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 179    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 180    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 181    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 182    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 183    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 184    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 185    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 186    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 187    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 188    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 189    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 190    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 191    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 192    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 193    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 194    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 195    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 196    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 197    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 198    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 199    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 200    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.83 (F:10)   win : 35 , draw : 1 , lose : 14
+No.5 (F:9.091)   win : 41 , draw : 1 , lose : 8
+No.96 (F:9.182)   win : 46 , draw : 1 , lose : 3
+P : White
+No.83 (F:10)   win : 35 , draw : 1 , lose : 14
+No.5 (F:9.091)   win : 40 , draw : 2 , lose : 8
+No.96 (F:9.182)   win : 44 , draw : 0 , lose : 6
+vs Normal 
+P : Black
+No.83 (F:10)   win : 11 , draw : 1 , lose : 38
+No.5 (F:9.091)   win : 6 , draw : 0 , lose : 44
+No.96 (F:9.182)   win : 2 , draw : 1 , lose : 47
+P : White
+No.83 (F:10)   win : 10 , draw : 1 , lose : 39
+No.5 (F:9.091)   win : 20 , draw : 0 , lose : 30
+No.96 (F:9.182)   win : 10 , draw : 6 , lose : 34
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.83 (F:10)   win : 50 , draw : 0 , lose : 0
+No.5 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.96 (F:9.182)   win : 50 , draw : 0 , lose : 0
+P : White
+No.83 (F:10)   win : 46 , draw : 0 , lose : 4
+No.5 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.96 (F:9.182)   win : 41 , draw : 1 , lose : 8
+vs Normal 
+P : Black
+No.83 (F:10)   win : 29 , draw : 0 , lose : 21
+No.5 (F:9.091)   win : 33 , draw : 9 , lose : 8
+No.96 (F:9.182)   win : 33 , draw : 11 , lose : 6
+P : White
+No.83 (F:10)   win : 47 , draw : 0 , lose : 3
+No.5 (F:9.091)   win : 36 , draw : 0 , lose : 14
+No.96 (F:9.182)   win : 39 , draw : 1 , lose : 10
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp200_1214-2045.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 201    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 202    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 203    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 204    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 205    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 206    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 207    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 208    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 209    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 210    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 211    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 212    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 213    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 214    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 215    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 216    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 217    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 218    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 219    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 220    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 221    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 222    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 223    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 224    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 225    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 226    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 227    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 228    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 229    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 230    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 231    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 232    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 233    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 234    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 235    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 236    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 237    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 238    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 239    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 240    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 241    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 242    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 243    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 244    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 245    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 246    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 247    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 248    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 249    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 250    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.10 (F:9.091)   win : 19 , draw : 0 , lose : 31
+No.6 (F:10)   win : 28 , draw : 0 , lose : 22
+No.23 (F:9.091)   win : 40 , draw : 0 , lose : 10
+P : White
+No.10 (F:9.091)   win : 40 , draw : 0 , lose : 10
+No.23 (F:9.091)   win : 41 , draw : 1 , lose : 8
+No.6 (F:10)   win : 46 , draw : 0 , lose : 4
+vs Normal 
+P : Black
+No.23 (F:9.091)   win : 8 , draw : 0 , lose : 42
+No.6 (F:10)   win : 26 , draw : 0 , lose : 24
+No.10 (F:9.091)   win : 10 , draw : 0 , lose : 40
+P : White
+No.23 (F:9.091)   win : 9 , draw : 4 , lose : 37
+No.10 (F:9.091)   win : 12 , draw : 0 , lose : 38
+No.6 (F:10)   win : 22 , draw : 3 , lose : 25
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.10 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.23 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.6 (F:10)   win : 49 , draw : 0 , lose : 1
+P : White
+No.10 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.23 (F:9.091)   win : 48 , draw : 0 , lose : 2
+No.6 (F:10)   win : 49 , draw : 0 , lose : 1
+vs Normal 
+P : Black
+No.23 (F:9.091)   win : 46 , draw : 0 , lose : 4
+No.10 (F:9.091)   win : 48 , draw : 0 , lose : 2
+No.6 (F:10)   win : 42 , draw : 0 , lose : 8
+P : White
+No.10 (F:9.091)   win : 36 , draw : 0 , lose : 14
+No.23 (F:9.091)   win : 40 , draw : 6 , lose : 4
+No.6 (F:10)   win : 45 , draw : 0 , lose : 5
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp250_1215-0308.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 251    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 252    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 253    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 254    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 255    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 256    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 257    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 258    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 259    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 260    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 261    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 262    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 263    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 264    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 265    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 266    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 267    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 268    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 269    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 270    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 271    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 272    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 273    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 274    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 275    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 276    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 277    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 278    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 279    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 280    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 281    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 282    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 283    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 284    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 285    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 286    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 287    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 288    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 289    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 290    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 291    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 292    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 293    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 294    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 295    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 296    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 297    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 298    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 299    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 300    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.1 (F:9.182)   win : 36 , draw : 0 , lose : 14
+No.5 (F:9.091)   win : 40 , draw : 2 , lose : 8
+No.3 (F:9.091)   win : 49 , draw : 0 , lose : 1
+P : White
+No.3 (F:9.091)   win : 40 , draw : 1 , lose : 9
+No.5 (F:9.091)   win : 37 , draw : 0 , lose : 13
+No.1 (F:9.182)   win : 40 , draw : 0 , lose : 10
+vs Normal 
+P : Black
+No.1 (F:9.182)   win : 21 , draw : 0 , lose : 29
+No.3 (F:9.091)   win : 19 , draw : 1 , lose : 30
+No.5 (F:9.091)   win : 7 , draw : 0 , lose : 43
+P : White
+No.5 (F:9.091)   win : 12 , draw : 0 , lose : 38
+No.3 (F:9.091)   win : 25 , draw : 2 , lose : 23
+No.1 (F:9.182)   win : 15 , draw : 1 , lose : 34
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.1 (F:9.182)   win : 50 , draw : 0 , lose : 0
+No.5 (F:9.091)   win : 48 , draw : 0 , lose : 2
+No.3 (F:9.091)   win : 50 , draw : 0 , lose : 0
+P : White
+No.5 (F:9.091)   win : 46 , draw : 0 , lose : 4
+No.1 (F:9.182)   win : 48 , draw : 0 , lose : 2
+No.3 (F:9.091)   win : 49 , draw : 0 , lose : 1
+vs Normal 
+P : Black
+No.3 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.5 (F:9.091)   win : 35 , draw : 1 , lose : 14
+No.1 (F:9.182)   win : 49 , draw : 0 , lose : 1
+P : White
+No.5 (F:9.091)   win : 42 , draw : 2 , lose : 6
+No.3 (F:9.091)   win : 41 , draw : 1 , lose : 8
+No.1 (F:9.182)   win : 44 , draw : 1 , lose : 5
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp300_1215-0902.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 301    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 302    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 303    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 304    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 305    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 306    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 307    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 308    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 309    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 310    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 311    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 312    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 313    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 314    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 315    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 316    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 317    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 318    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 319    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 320    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 321    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 322    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 323    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 324    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 325    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 326    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 327    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 328    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 329    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 330    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 331    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 332    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 333    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 334    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 335    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 336    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 337    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 338    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 339    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 340    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 341    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 342    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 343    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 344    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 345    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 346    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 347    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 348    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 349    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 350    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.80 (F:9.091)   win : 43 , draw : 0 , lose : 7
+No.86 (F:9.091)   win : 39 , draw : 0 , lose : 11
+No.26 (F:10)   win : 44 , draw : 0 , lose : 6
+P : White
+No.80 (F:9.091)   win : 39 , draw : 0 , lose : 11
+No.86 (F:9.091)   win : 37 , draw : 1 , lose : 12
+No.26 (F:10)   win : 42 , draw : 0 , lose : 8
+vs Normal 
+P : Black
+No.80 (F:9.091)   win : 5 , draw : 3 , lose : 42
+No.86 (F:9.091)   win : 10 , draw : 1 , lose : 39
+No.26 (F:10)   win : 4 , draw : 4 , lose : 42
+P : White
+No.80 (F:9.091)   win : 15 , draw : 1 , lose : 34
+No.86 (F:9.091)   win : 18 , draw : 5 , lose : 27
+No.26 (F:10)   win : 12 , draw : 0 , lose : 38
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.86 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.80 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.26 (F:10)   win : 47 , draw : 1 , lose : 2
+P : White
+No.86 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.80 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.26 (F:10)   win : 45 , draw : 2 , lose : 3
+vs Normal 
+P : Black
+No.80 (F:9.091)   win : 48 , draw : 0 , lose : 2
+No.26 (F:10)   win : 48 , draw : 0 , lose : 2
+No.86 (F:9.091)   win : 48 , draw : 0 , lose : 2
+P : White
+No.80 (F:9.091)   win : 42 , draw : 0 , lose : 8
+No.86 (F:9.091)   win : 45 , draw : 0 , lose : 5
+No.26 (F:10)   win : 49 , draw : 0 , lose : 1
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp350_1215-1451.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 351    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 352    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 353    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 354    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 355    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 356    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 357    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 358    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 359    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 360    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 361    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 362    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 363    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 364    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 365    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 366    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 367    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 368    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 369    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 370    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 371    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 372    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 373    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 374    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 375    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 376    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 377    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 378    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 379    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 380    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 381    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 382    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 383    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 384    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 385    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 386    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 387    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 388    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 389    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 390    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 391    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 392    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 393    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 394    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 395    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 396    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 397    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 398    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 399    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 400    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.55 (F:10)   win : 30 , draw : 1 , lose : 19
+No.105 (F:9.091)   win : 35 , draw : 0 , lose : 15
+No.32 (F:9.091)   win : 36 , draw : 0 , lose : 14
+P : White
+No.32 (F:9.091)   win : 48 , draw : 1 , lose : 1
+No.105 (F:9.091)   win : 38 , draw : 0 , lose : 12
+No.55 (F:10)   win : 43 , draw : 0 , lose : 7
+vs Normal 
+P : Black
+No.105 (F:9.091)   win : 15 , draw : 1 , lose : 34
+No.32 (F:9.091)   win : 4 , draw : 0 , lose : 46
+No.55 (F:10)   win : 5 , draw : 0 , lose : 45
+P : White
+No.105 (F:9.091)   win : 5 , draw : 1 , lose : 44
+No.55 (F:10)   win : 20 , draw : 2 , lose : 28
+No.32 (F:9.091)   win : 19 , draw : 2 , lose : 29
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.105 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.32 (F:9.091)   win : 49 , draw : 1 , lose : 0
+No.55 (F:10)   win : 50 , draw : 0 , lose : 0
+P : White
+No.32 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.105 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.55 (F:10)   win : 48 , draw : 0 , lose : 2
+vs Normal 
+P : Black
+No.32 (F:9.091)   win : 35 , draw : 11 , lose : 4
+No.105 (F:9.091)   win : 45 , draw : 0 , lose : 5
+No.55 (F:10)   win : 46 , draw : 0 , lose : 4
+P : White
+No.55 (F:10)   win : 48 , draw : 0 , lose : 2
+No.32 (F:9.091)   win : 48 , draw : 0 , lose : 2
+No.105 (F:9.091)   win : 47 , draw : 0 , lose : 3
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp400_1215-2023.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 401    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 402    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 403    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 404    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 405    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 406    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 407    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 408    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 409    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 410    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 411    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 412    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 413    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 414    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 415    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 416    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 417    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 418    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 419    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 420    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 421    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 422    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 423    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 424    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 425    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 426    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 427    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 428    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 429    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 430    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 431    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 432    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 433    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 434    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 435    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 436    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 437    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 438    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 439    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 440    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 441    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 442    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 443    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 444    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 445    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 446    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 447    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 448    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 449    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 450    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.7 (F:9.091)   win : 34 , draw : 1 , lose : 15
+No.6 (F:9.091)   win : 42 , draw : 0 , lose : 8
+No.43 (F:10)   win : 41 , draw : 1 , lose : 8
+P : White
+No.7 (F:9.091)   win : 41 , draw : 1 , lose : 8
+No.6 (F:9.091)   win : 42 , draw : 0 , lose : 8
+No.43 (F:10)   win : 40 , draw : 0 , lose : 10
+vs Normal 
+P : Black
+No.43 (F:10)   win : 6 , draw : 0 , lose : 44
+No.7 (F:9.091)   win : 18 , draw : 1 , lose : 31
+No.6 (F:9.091)   win : 16 , draw : 4 , lose : 30
+P : White
+No.7 (F:9.091)   win : 15 , draw : 2 , lose : 33
+No.6 (F:9.091)   win : 18 , draw : 2 , lose : 30
+No.43 (F:10)   win : 18 , draw : 0 , lose : 32
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.7 (F:9.091)   win : 45 , draw : 0 , lose : 5
+No.43 (F:10)   win : 50 , draw : 0 , lose : 0
+No.6 (F:9.091)   win : 49 , draw : 0 , lose : 1
+P : White
+No.7 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.6 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.43 (F:10)   win : 49 , draw : 0 , lose : 1
+vs Normal 
+P : Black
+No.7 (F:9.091)   win : 43 , draw : 0 , lose : 7
+No.43 (F:10)   win : 50 , draw : 0 , lose : 0
+No.6 (F:9.091)   win : 48 , draw : 0 , lose : 2
+P : White
+No.43 (F:10)   win : 49 , draw : 0 , lose : 1
+No.7 (F:9.091)   win : 47 , draw : 0 , lose : 3
+No.6 (F:9.091)   win : 45 , draw : 0 , lose : 5
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp450_1216-0152.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 451    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 452    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 453    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 454    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 455    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 456    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 457    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 458    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 459    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 460    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 461    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 462    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 463    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 464    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 465    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 466    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 467    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 468    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 469    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 470    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 471    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 472    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 473    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 474    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 475    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 476    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 477    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 478    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 479    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 480    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 481    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 482    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 483    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 484    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 485    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 486    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 487    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 488    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 489    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 490    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 491    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 492    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 493    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 494    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 495    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 496    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 497    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 498    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 499    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 500    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.0 (F:10)   win : 43 , draw : 0 , lose : 7
+P : White
+No.0 (F:10)   win : 42 , draw : 1 , lose : 7
+vs Normal 
+P : Black
+No.0 (F:10)   win : 9 , draw : 0 , lose : 41
+P : White
+No.0 (F:10)   win : 24 , draw : 2 , lose : 24
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.0 (F:10)   win : 49 , draw : 0 , lose : 1
+P : White
+No.0 (F:10)   win : 49 , draw : 0 , lose : 1
+vs Normal 
+P : Black
+No.0 (F:10)   win : 34 , draw : 1 , lose : 15
+P : White
+No.0 (F:10)   win : 46 , draw : 0 , lose : 4
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp500_1216-0717.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 501    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 502    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 503    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 504    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 505    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 506    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 507    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 508    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 509    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 510    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 511    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 512    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 513    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 514    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 515    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 516    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 517    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 518    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 519    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 520    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 521    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 522    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 523    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 524    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 525    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 526    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 527    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 528    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 529    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 530    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 531    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 532    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 533    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 534    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 535    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 536    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 537    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 538    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 539    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 540    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 541    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 542    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 543    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 544    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 545    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 546    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 547    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 548    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 549    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 550    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.9 (F:9.091)   win : 39 , draw : 1 , lose : 10
+No.32 (F:9.091)   win : 36 , draw : 0 , lose : 14
+No.44 (F:9.182)   win : 43 , draw : 1 , lose : 6
+P : White
+No.9 (F:9.091)   win : 36 , draw : 0 , lose : 14
+No.32 (F:9.091)   win : 43 , draw : 2 , lose : 5
+No.44 (F:9.182)   win : 38 , draw : 1 , lose : 11
+vs Normal 
+P : Black
+No.9 (F:9.091)   win : 25 , draw : 0 , lose : 25
+No.32 (F:9.091)   win : 0 , draw : 0 , lose : 50
+No.44 (F:9.182)   win : 5 , draw : 0 , lose : 45
+P : White
+No.32 (F:9.091)   win : 9 , draw : 2 , lose : 39
+No.9 (F:9.091)   win : 18 , draw : 0 , lose : 32
+No.44 (F:9.182)   win : 12 , draw : 0 , lose : 38
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.44 (F:9.182)   win : 48 , draw : 1 , lose : 1
+No.32 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.9 (F:9.091)   win : 48 , draw : 1 , lose : 1
+P : White
+No.32 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.44 (F:9.182)   win : 49 , draw : 0 , lose : 1
+No.9 (F:9.091)   win : 50 , draw : 0 , lose : 0
+vs Normal 
+P : Black
+No.9 (F:9.091)   win : 46 , draw : 0 , lose : 4
+No.44 (F:9.182)   win : 50 , draw : 0 , lose : 0
+No.32 (F:9.091)   win : 50 , draw : 0 , lose : 0
+P : White
+No.32 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.9 (F:9.091)   win : 46 , draw : 1 , lose : 3
+No.44 (F:9.182)   win : 46 , draw : 0 , lose : 4
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp550_1216-1242.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 551    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 552    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 553    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 554    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 555    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 556    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 557    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 558    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 559    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 560    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 561    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 562    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 563    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 564    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 565    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 566    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 567    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 568    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 569    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 570    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 571    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 572    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 573    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 574    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 575    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 576    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 577    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 578    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 579    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 580    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 581    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 582    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 583    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 584    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 585    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 586    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 587    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 588    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 589    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 590    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 591    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 592    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 593    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 594    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 595    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 596    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 597    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 598    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 599    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 600    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.42 (F:9.091)   win : 43 , draw : 1 , lose : 6
+No.54 (F:9.091)   win : 43 , draw : 1 , lose : 6
+No.63 (F:9.091)   win : 42 , draw : 2 , lose : 6
+P : White
+No.42 (F:9.091)   win : 41 , draw : 2 , lose : 7
+No.63 (F:9.091)   win : 43 , draw : 0 , lose : 7
+No.54 (F:9.091)   win : 41 , draw : 0 , lose : 9
+vs Normal 
+P : Black
+No.42 (F:9.091)   win : 0 , draw : 3 , lose : 47
+No.54 (F:9.091)   win : 3 , draw : 0 , lose : 47
+No.63 (F:9.091)   win : 5 , draw : 17 , lose : 28
+P : White
+No.42 (F:9.091)   win : 21 , draw : 0 , lose : 29
+No.54 (F:9.091)   win : 20 , draw : 1 , lose : 29
+No.63 (F:9.091)   win : 16 , draw : 2 , lose : 32
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.42 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.54 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.63 (F:9.091)   win : 46 , draw : 0 , lose : 4
+P : White
+No.54 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.63 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.42 (F:9.091)   win : 49 , draw : 0 , lose : 1
+vs Normal 
+P : Black
+No.42 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.54 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.63 (F:9.091)   win : 49 , draw : 0 , lose : 1
+P : White
+No.54 (F:9.091)   win : 47 , draw : 1 , lose : 2
+No.42 (F:9.091)   win : 45 , draw : 0 , lose : 5
+No.63 (F:9.091)   win : 49 , draw : 0 , lose : 1
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp600_1216-1804.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 601    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 602    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 603    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 604    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 605    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 606    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 607    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 608    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 609    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 610    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 611    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 612    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 613    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 614    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 615    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 616    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 617    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 618    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 619    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 620    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 621    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 622    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 623    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 624    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 625    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 626    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 627    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 628    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 629    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 630    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 631    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 632    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 633    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 634    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 635    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 636    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 637    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 638    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 639    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 640    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 641    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 642    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 643    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 644    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 645    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 646    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 647    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 648    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 649    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 650    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.5 (F:9.091)   win : 37 , draw : 0 , lose : 13
+No.59 (F:9.091)   win : 37 , draw : 0 , lose : 13
+No.89 (F:10)   win : 44 , draw : 0 , lose : 6
+P : White
+No.59 (F:9.091)   win : 37 , draw : 0 , lose : 13
+No.5 (F:9.091)   win : 39 , draw : 0 , lose : 11
+No.89 (F:10)   win : 39 , draw : 1 , lose : 10
+vs Normal 
+P : Black
+No.5 (F:9.091)   win : 14 , draw : 0 , lose : 36
+No.89 (F:10)   win : 19 , draw : 1 , lose : 30
+No.59 (F:9.091)   win : 12 , draw : 0 , lose : 38
+P : White
+No.5 (F:9.091)   win : 13 , draw : 2 , lose : 35
+No.59 (F:9.091)   win : 6 , draw : 0 , lose : 44
+No.89 (F:10)   win : 9 , draw : 0 , lose : 41
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.5 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.59 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.89 (F:10)   win : 48 , draw : 0 , lose : 2
+P : White
+No.5 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.89 (F:10)   win : 50 , draw : 0 , lose : 0
+No.59 (F:9.091)   win : 49 , draw : 1 , lose : 0
+vs Normal 
+P : Black
+No.89 (F:10)   win : 50 , draw : 0 , lose : 0
+No.5 (F:9.091)   win : 47 , draw : 0 , lose : 3
+No.59 (F:9.091)   win : 47 , draw : 0 , lose : 3
+P : White
+No.89 (F:10)   win : 47 , draw : 1 , lose : 2
+No.59 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.5 (F:9.091)   win : 46 , draw : 1 , lose : 3
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp650_1216-2329.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 651    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 652    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 653    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 654    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 655    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 656    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 657    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 658    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 659    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 660    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 661    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 662    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 663    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 664    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 665    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 666    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 667    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 668    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 669    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 670    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 671    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 672    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 673    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 674    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 675    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 676    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 677    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 678    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 679    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 680    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 681    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 682    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 683    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 684    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 685    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 686    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 687    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 688    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 689    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 690    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 691    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 692    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 693    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 694    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 695    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 696    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 697    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 698    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 699    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 700    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.44 (F:10)   win : 47 , draw : 0 , lose : 3
+No.40 (F:10)   win : 45 , draw : 0 , lose : 5
+No.20 (F:10)   win : 46 , draw : 0 , lose : 4
+P : White
+No.44 (F:10)   win : 37 , draw : 2 , lose : 11
+No.20 (F:10)   win : 38 , draw : 1 , lose : 11
+No.40 (F:10)   win : 44 , draw : 0 , lose : 6
+vs Normal 
+P : Black
+No.44 (F:10)   win : 0 , draw : 0 , lose : 50
+No.40 (F:10)   win : 12 , draw : 0 , lose : 38
+No.20 (F:10)   win : 25 , draw : 0 , lose : 25
+P : White
+No.40 (F:10)   win : 15 , draw : 4 , lose : 31
+No.20 (F:10)   win : 16 , draw : 1 , lose : 33
+No.44 (F:10)   win : 13 , draw : 0 , lose : 37
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.40 (F:10)   win : 49 , draw : 0 , lose : 1
+No.20 (F:10)   win : 50 , draw : 0 , lose : 0
+No.44 (F:10)   win : 49 , draw : 0 , lose : 1
+P : White
+No.44 (F:10)   win : 50 , draw : 0 , lose : 0
+No.20 (F:10)   win : 48 , draw : 1 , lose : 1
+No.40 (F:10)   win : 50 , draw : 0 , lose : 0
+vs Normal 
+P : Black
+No.20 (F:10)   win : 50 , draw : 0 , lose : 0
+No.44 (F:10)   win : 50 , draw : 0 , lose : 0
+No.40 (F:10)   win : 46 , draw : 0 , lose : 4
+P : White
+No.44 (F:10)   win : 47 , draw : 0 , lose : 3
+No.40 (F:10)   win : 49 , draw : 0 , lose : 1
+No.20 (F:10)   win : 47 , draw : 2 , lose : 1
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp700_1217-0453.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 701    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 702    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 703    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 704    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 705    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 706    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 707    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 708    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 709    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 710    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 711    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 712    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 713    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 714    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 715    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 716    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 717    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 718    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 719    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 720    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 721    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 722    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 723    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 724    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 725    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 726    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 727    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 728    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 729    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 730    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 731    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 732    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 733    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 734    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 735    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 736    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 737    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 738    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 739    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 740    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 741    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 742    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 743    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 744    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 745    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 746    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 747    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 748    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 749    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 750    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.102 (F:9.091)   win : 37 , draw : 0 , lose : 13
+No.21 (F:9.091)   win : 46 , draw : 1 , lose : 3
+No.15 (F:9.091)   win : 46 , draw : 0 , lose : 4
+P : White
+No.102 (F:9.091)   win : 40 , draw : 0 , lose : 10
+No.21 (F:9.091)   win : 45 , draw : 0 , lose : 5
+No.15 (F:9.091)   win : 43 , draw : 1 , lose : 6
+vs Normal 
+P : Black
+No.21 (F:9.091)   win : 1 , draw : 2 , lose : 47
+No.102 (F:9.091)   win : 4 , draw : 0 , lose : 46
+No.15 (F:9.091)   win : 13 , draw : 0 , lose : 37
+P : White
+No.102 (F:9.091)   win : 16 , draw : 1 , lose : 33
+No.21 (F:9.091)   win : 20 , draw : 1 , lose : 29
+No.15 (F:9.091)   win : 12 , draw : 1 , lose : 37
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.102 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.21 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.15 (F:9.091)   win : 49 , draw : 0 , lose : 1
+P : White
+No.102 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.21 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.15 (F:9.091)   win : 50 , draw : 0 , lose : 0
+vs Normal 
+P : Black
+No.102 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.21 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.15 (F:9.091)   win : 49 , draw : 0 , lose : 1
+P : White
+No.21 (F:9.091)   win : 45 , draw : 3 , lose : 2
+No.15 (F:9.091)   win : 43 , draw : 0 , lose : 7
+No.102 (F:9.091)   win : 48 , draw : 1 , lose : 1
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp750_1217-1021.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 751    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 752    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 753    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 754    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 755    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 756    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 757    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 758    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 759    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 760    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 761    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 762    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 763    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 764    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 765    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 766    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 767    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 768    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 769    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 770    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 771    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 772    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 773    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 774    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 775    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 776    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 777    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 778    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 779    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 780    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 781    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 782    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 783    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 784    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 785    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 786    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 787    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 788    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 789    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 790    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 791    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 792    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 793    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 794    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 795    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 796    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 797    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 798    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 799    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 800    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.77 (F:9.091)   win : 40 , draw : 1 , lose : 9
+No.15 (F:9.091)   win : 44 , draw : 2 , lose : 4
+No.9 (F:9.091)   win : 48 , draw : 0 , lose : 2
+P : White
+No.9 (F:9.091)   win : 44 , draw : 2 , lose : 4
+No.15 (F:9.091)   win : 45 , draw : 1 , lose : 4
+No.77 (F:9.091)   win : 45 , draw : 1 , lose : 4
+vs Normal 
+P : Black
+No.9 (F:9.091)   win : 8 , draw : 0 , lose : 42
+No.15 (F:9.091)   win : 24 , draw : 13 , lose : 13
+No.77 (F:9.091)   win : 7 , draw : 1 , lose : 42
+P : White
+No.9 (F:9.091)   win : 13 , draw : 1 , lose : 36
+No.77 (F:9.091)   win : 17 , draw : 2 , lose : 31
+No.15 (F:9.091)   win : 13 , draw : 0 , lose : 37
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.9 (F:9.091)   win : 48 , draw : 0 , lose : 2
+No.77 (F:9.091)   win : 49 , draw : 1 , lose : 0
+No.15 (F:9.091)   win : 50 , draw : 0 , lose : 0
+P : White
+No.9 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.15 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.77 (F:9.091)   win : 49 , draw : 0 , lose : 1
+vs Normal 
+P : Black
+No.9 (F:9.091)   win : 46 , draw : 0 , lose : 4
+No.77 (F:9.091)   win : 49 , draw : 1 , lose : 0
+No.15 (F:9.091)   win : 49 , draw : 0 , lose : 1
+P : White
+No.9 (F:9.091)   win : 42 , draw : 1 , lose : 7
+No.15 (F:9.091)   win : 47 , draw : 1 , lose : 2
+No.77 (F:9.091)   win : 48 , draw : 0 , lose : 2
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp800_1217-1547.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 801    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 802    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 803    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 804    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 805    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 806    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 807    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 808    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 809    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 810    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 811    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 812    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 813    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 814    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 815    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 816    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 817    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 818    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 819    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 820    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 821    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 822    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 823    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 824    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 825    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 826    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 827    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 828    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 829    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 830    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 831    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 832    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 833    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 834    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 835    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 836    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 837    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 838    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 839    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 840    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 841    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 842    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 843    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 844    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 845    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 846    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 847    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 848    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 849    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 850    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.81 (F:10)   win : 44 , draw : 0 , lose : 6
+No.46 (F:9.091)   win : 41 , draw : 0 , lose : 9
+No.77 (F:9.091)   win : 41 , draw : 0 , lose : 9
+P : White
+No.81 (F:10)   win : 42 , draw : 0 , lose : 8
+No.77 (F:9.091)   win : 44 , draw : 0 , lose : 6
+No.46 (F:9.091)   win : 46 , draw : 2 , lose : 2
+vs Normal 
+P : Black
+No.46 (F:9.091)   win : 2 , draw : 2 , lose : 46
+No.77 (F:9.091)   win : 21 , draw : 0 , lose : 29
+No.81 (F:10)   win : 5 , draw : 3 , lose : 42
+P : White
+No.46 (F:9.091)   win : 8 , draw : 9 , lose : 33
+No.77 (F:9.091)   win : 12 , draw : 0 , lose : 38
+No.81 (F:10)   win : 25 , draw : 0 , lose : 25
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.46 (F:9.091)   win : 47 , draw : 2 , lose : 1
+No.81 (F:10)   win : 50 , draw : 0 , lose : 0
+No.77 (F:9.091)   win : 49 , draw : 0 , lose : 1
+P : White
+No.46 (F:9.091)   win : 48 , draw : 1 , lose : 1
+No.81 (F:10)   win : 49 , draw : 0 , lose : 1
+No.77 (F:9.091)   win : 48 , draw : 0 , lose : 2
+vs Normal 
+P : Black
+No.46 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.77 (F:9.091)   win : 48 , draw : 0 , lose : 2
+No.81 (F:10)   win : 47 , draw : 0 , lose : 3
+P : White
+No.46 (F:9.091)   win : 44 , draw : 1 , lose : 5
+No.77 (F:9.091)   win : 48 , draw : 1 , lose : 1
+No.81 (F:10)   win : 49 , draw : 0 , lose : 1
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp850_1217-2116.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 851    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 852    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 853    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 854    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 855    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 856    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 857    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 858    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 859    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 860    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 861    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 862    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 863    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 864    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 865    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 866    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 867    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 868    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 869    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 870    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 871    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 872    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 873    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 874    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 875    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 876    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 877    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 878    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 879    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 880    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 881    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 882    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 883    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 884    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 885    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 886    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 887    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 888    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 889    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 890    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 891    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 892    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 893    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 894    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 895    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 896    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 897    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 898    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 899    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 900    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.22 (F:10)   win : 43 , draw : 0 , lose : 7
+No.19 (F:9.091)   win : 39 , draw : 1 , lose : 10
+No.69 (F:10)   win : 44 , draw : 1 , lose : 5
+P : White
+No.19 (F:9.091)   win : 40 , draw : 1 , lose : 9
+No.22 (F:10)   win : 45 , draw : 0 , lose : 5
+No.69 (F:10)   win : 43 , draw : 1 , lose : 6
+vs Normal 
+P : Black
+No.22 (F:10)   win : 11 , draw : 0 , lose : 39
+No.19 (F:9.091)   win : 22 , draw : 0 , lose : 28
+No.69 (F:10)   win : 26 , draw : 0 , lose : 24
+P : White
+No.22 (F:10)   win : 11 , draw : 4 , lose : 35
+No.69 (F:10)   win : 16 , draw : 4 , lose : 30
+No.19 (F:9.091)   win : 19 , draw : 3 , lose : 28
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.22 (F:10)   win : 47 , draw : 0 , lose : 3
+No.69 (F:10)   win : 50 , draw : 0 , lose : 0
+No.19 (F:9.091)   win : 48 , draw : 1 , lose : 1
+P : White
+No.19 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.22 (F:10)   win : 49 , draw : 0 , lose : 1
+No.69 (F:10)   win : 49 , draw : 0 , lose : 1
+vs Normal 
+P : Black
+No.22 (F:10)   win : 38 , draw : 0 , lose : 12
+No.69 (F:10)   win : 50 , draw : 0 , lose : 0
+No.19 (F:9.091)   win : 39 , draw : 0 , lose : 11
+P : White
+No.19 (F:9.091)   win : 44 , draw : 5 , lose : 1
+No.22 (F:10)   win : 48 , draw : 0 , lose : 2
+No.69 (F:10)   win : 47 , draw : 1 , lose : 2
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp900_1218-0248.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 901    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 902    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 903    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 904    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 905    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 906    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 907    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 908    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 909    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 910    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 911    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 912    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 913    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 914    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 915    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 916    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 917    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 918    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 919    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 920    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 921    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 922    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 923    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 924    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 925    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 926    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 927    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 928    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 929    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 930    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 931    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 932    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 933    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 934    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 935    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 936    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 937    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 938    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 939    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 940    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 941    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 942    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 943    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 944    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 945    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 946    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 947    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 948    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 949    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 950    [ New vs Old ] 
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.48 (F:9.091)   win : 37 , draw : 2 , lose : 11
+No.86 (F:10)   win : 46 , draw : 0 , lose : 4
+No.102 (F:9.091)   win : 41 , draw : 1 , lose : 8
+P : White
+No.86 (F:10)   win : 44 , draw : 1 , lose : 5
+No.48 (F:9.091)   win : 46 , draw : 0 , lose : 4
+No.102 (F:9.091)   win : 47 , draw : 0 , lose : 3
+vs Normal 
+P : Black
+No.86 (F:10)   win : 1 , draw : 0 , lose : 49
+No.48 (F:9.091)   win : 0 , draw : 0 , lose : 50
+No.102 (F:9.091)   win : 6 , draw : 10 , lose : 34
+P : White
+No.48 (F:9.091)   win : 14 , draw : 1 , lose : 35
+No.86 (F:10)   win : 20 , draw : 1 , lose : 29
+No.102 (F:9.091)   win : 12 , draw : 1 , lose : 37
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.48 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.86 (F:10)   win : 49 , draw : 0 , lose : 1
+No.102 (F:9.091)   win : 49 , draw : 1 , lose : 0
+P : White
+No.48 (F:9.091)   win : 50 , draw : 0 , lose : 0
+No.86 (F:10)   win : 49 , draw : 1 , lose : 0
+No.102 (F:9.091)   win : 50 , draw : 0 , lose : 0
+vs Normal 
+P : Black
+No.48 (F:9.091)   win : 48 , draw : 0 , lose : 2
+No.102 (F:9.091)   win : 49 , draw : 0 , lose : 1
+No.86 (F:10)   win : 27 , draw : 0 , lose : 23
+P : White
+No.48 (F:9.091)   win : 42 , draw : 0 , lose : 8
+No.86 (F:10)   win : 48 , draw : 0 , lose : 2
+No.102 (F:9.091)   win : 49 , draw : 0 , lose : 1
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_imp950_1218-0828.txt
+ファイルに書き込みました
+
+[[ imp / mi ]] imp : 951    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 952    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 953    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 954    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 955    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 956    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 957    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 958    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 959    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 960    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 961    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 962    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 963    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 964    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 965    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 966    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 967    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 968    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 969    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 970    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 971    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 972    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 973    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 974    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 975    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 976    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 977    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 978    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 979    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 980    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 981    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 982    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 983    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 984    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 985    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 986    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 987    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 988    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 989    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 990    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 991    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 992    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 993    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 994    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 995    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 996    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 997    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 998    [ New vs Old ] 
+
+
+[[ imp / mi ]] imp : 999    [ New vs Old ] 
+
+
+[ [ [  Improvisation FINISH ] ] ]
+
+Runtime:8128.82min (487729.46 秒)
+
+[ [ [  Modify Fitness  ] ] ]
+
+ [ vs inHM ] 
+
+
+F (with sort) :
+ 6.407086614173228
+ 6.377952755905512
+ 6.224409448818897
+ 6.21259842519685
+ 6.153543307086614
+ 5.973228346456693
+ 5.9015748031496065
+ 5.893700787401575
+ 5.838582677165355
+ 5.815748031496063
+ 5.807874015748031
+ 5.734645669291338
+ 5.7220472440944885
+ 5.7204724409448815
+ 5.693700787401575
+ 5.660629921259843
+ 5.6488188976377955
+ 5.637795275590551
+ 5.596062992125984
+ 5.544094488188977
+ 5.535433070866142
+ 5.511811023622047
+ 5.479527559055118
+ 5.460629921259843
+ 5.421259842519685
+ 5.403937007874016
+ 5.4
+ 5.354330708661418
+ 5.315748031496063
+ 5.304724409448819
+ 5.2866141732283465
+ 5.2779527559055115
+ 5.246456692913386
+ 5.230708661417323
+ 5.183464566929134
+ 5.182677165354331
+ 5.168503937007874
+ 5.15748031496063
+ 5.148031496062992
+ 5.145669291338582
+ 5.133070866141733
+ 5.124409448818898
+ 5.103937007874015
+ 5.101574803149607
+ 5.077952755905512
+ 5.070078740157481
+ 5.0566929133858265
+ 5.047244094488189
+ 5.024409448818898
+ 5.017322834645669
+ 5.005511811023622
+ 4.987401574803149
+ 4.982677165354331
+ 4.974803149606299
+ 4.940944881889764
+ 4.930708661417323
+ 4.924409448818897
+ 4.921259842519685
+ 4.921259842519685
+ 4.919685039370079
+ 4.911023622047244
+ 4.907086614173228
+ 4.9
+ 4.899212598425197
+ 4.8929133858267715
+ 4.888188976377953
+ 4.873228346456693
+ 4.868503937007874
+ 4.848031496062992
+ 4.844881889763779
+ 4.830708661417323
+ 4.82755905511811
+ 4.82755905511811
+ 4.8251968503937
+ 4.806299212598425
+ 4.789763779527559
+ 4.780314960629921
+ 4.77007874015748
+ 4.74251968503937
+ 4.7377952755905515
+ 4.7362204724409445
+ 4.734645669291338
+ 4.730708661417323
+ 4.723622047244095
+ 4.711811023622047
+ 4.707086614173228
+ 4.690551181102363
+ 4.675590551181102
+ 4.6228346456692915
+ 4.61259842519685
+ 4.592125984251968
+ 4.5496062992125985
+ 4.532283464566929
+ 4.521259842519685
+ 4.5149606299212595
+ 4.511023622047244
+ 4.501574803149606
+ 4.488976377952756
+ 4.466929133858268
+ 4.458267716535433
+ 4.4275590551181105
+ 4.423622047244095
+ 4.417322834645669
+ 4.411023622047244
+ 4.388976377952756
+ 4.3858267716535435
+ 4.377952755905512
+ 4.324409448818898
+ 4.246456692913386
+ 4.237007874015748
+ 4.22992125984252
+ 4.226771653543307
+ 4.218110236220473
+ 4.145669291338582
+ 4.1228346456692915
+ 4.11496062992126
+ 4.110236220472441
+ 4.104724409448819
+ 3.9637795275590553
+ 3.952755905511811
+ 3.894488188976378
+ 3.851968503937008
+ 3.769291338582677
+ 3.763779527559055
+ 3.661417322834646
+ 3.4929133858267716
+ 3.14251968503937
+ 2.5913385826771655
+
+[ [ [  Modify Fitness FINISH ] ] ]
+
+Runtime:8506.61min (510396.82 秒)
+
+ [ The Best3 Harmony vs Observer ]
+Alpha-beta Search depth : 1
+vs Easy 
+P : Black
+No.120 (F:6.224)   win : 47 , draw : 0 , lose : 3
+No.25 (F:6.407)   win : 42 , draw : 0 , lose : 8
+No.51 (F:6.378)   win : 44 , draw : 0 , lose : 6
+P : White
+No.120 (F:6.224)   win : 42 , draw : 1 , lose : 7
+No.25 (F:6.407)   win : 44 , draw : 1 , lose : 5
+No.51 (F:6.378)   win : 41 , draw : 1 , lose : 8
+vs Normal 
+P : Black
+No.51 (F:6.378)   win : 5 , draw : 3 , lose : 42
+No.120 (F:6.224)   win : 20 , draw : 0 , lose : 30
+No.25 (F:6.407)   win : 1 , draw : 0 , lose : 49
+P : White
+No.25 (F:6.407)   win : 15 , draw : 7 , lose : 28
+No.120 (F:6.224)   win : 16 , draw : 2 , lose : 32
+No.51 (F:6.378)   win : 9 , draw : 1 , lose : 40
+Alpha-beta Search depth : 2
+vs Easy 
+P : Black
+No.25 (F:6.407)   win : 49 , draw : 0 , lose : 1
+No.51 (F:6.378)   win : 50 , draw : 0 , lose : 0
+No.120 (F:6.224)   win : 50 , draw : 0 , lose : 0
+P : White
+No.51 (F:6.378)   win : 50 , draw : 0 , lose : 0
+No.25 (F:6.407)   win : 48 , draw : 0 , lose : 2
+No.120 (F:6.224)   win : 50 , draw : 0 , lose : 0
+vs Normal 
+P : Black
+No.120 (F:6.224)   win : 47 , draw : 1 , lose : 2
+No.25 (F:6.407)   win : 50 , draw : 0 , lose : 0
+No.51 (F:6.378)   win : 49 , draw : 0 , lose : 1
+P : White
+No.120 (F:6.224)   win : 48 , draw : 0 , lose : 2
+No.51 (F:6.378)   win : 48 , draw : 1 , lose : 1
+No.25 (F:6.407)   win : 49 , draw : 0 , lose : 1
+
+
+[ ファイル書き込み ]
+../../Othello_AI_weight1-4_learned_1218-2015.txt
+ファイルに書き込みました
+ファイルコピーしました
+[ 共通ファイルへの書き込み ]
+../../Othello_AI_weight1-4_learned.txt

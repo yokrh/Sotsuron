@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ForkJoinOthello.java|CopyOfOthello_main_CUI.java|Othello_main_CUI_withFJ.java|ForkJoinSample.java|Metaheuristic_fromGon.java|MetaheuristicRecursive_fromGon.java|Othello_main_CUI.java|Methods.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
